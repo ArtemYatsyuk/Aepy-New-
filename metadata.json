@@ -1,0 +1,5 @@
+{
+  "name": "Spotify Clone",
+  "description": "A fully functional music streaming web application replicating Spotify.",
+  "requestFramePermissions": []
+}
